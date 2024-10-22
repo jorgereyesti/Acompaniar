@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Acompañar</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="onb_title1">Bienvenid@ a Acompañar</string>
+    <string name="onb_title2">Recibe Ayuda Inmediata</string>
+    <string name="onb_title3">Tu Confidencialidad es lo Más Importante</string>
+
+    <string name="boarding1">
+        Nuestra misión es apoyarte. Acompañar está diseñada para brindarte herramientas de ayuda, información y contención.
+    </string>
+    <string name="boarding2">
+        Con solo unos toques, podrás acceder a líneas de emergencia, recursos legales y centros de asistencia en Tucumán.
+        Tu seguridad es nuestra prioridad.
+    </string>
+    <string name="boarding3">
+        Garantizamos que tu información personal estará protegida. Todas tus interacciones son seguras y privadas.
+        Estamos aquí para ti, de manera confidencial y discreta.
+    </string>
+    <string name="saltar">Saltar</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="bienvenid">¡Bienvenid@!</string>
+    <string name="ingresa_para_comenzar">Ingresa para comenzar</string>
+    <string name="label">ejemplo@email.com</string>
+    <string name="contrase_a">Contraseña</string>
+</resources>
