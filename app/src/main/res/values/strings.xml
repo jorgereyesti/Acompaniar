@@ -35,4 +35,11 @@
     <string name="ingresa_para_comenzar">Ingresa para comenzar</string>
     <string name="label">ejemplo@email.com</string>
     <string name="contrase_a">Contraseña</string>
+    <string name="helper_text"><![CDATA[Logitud >8 con 1 MAYÚS, 1 minús y 1 símbolo]]></string>
+    <string name="olvide_mi_contrase_a">Olvide mi </string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="o_continuar_con">---- O continuar con ----</string>
+    <string name="continuar_con_google">Continuar con Google</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="registrarse">Registrarse</string>
 </resources>
